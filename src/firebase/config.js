@@ -8,8 +8,7 @@ const firebaseConfig = {
   projectId: "mymoney-6049e",
   storageBucket: "mymoney-6049e.appspot.com",
   messagingSenderId: "368554177705",
-  appId: "1:368554177705:web:b34acb1ecc414a4f93e5b8", 
-};
+  appId: "1:368554177705:web:b34acb1ecc414a4f93e5b8",  
 
 // init firebase
 firebase.initializeApp(firebaseConfig);
